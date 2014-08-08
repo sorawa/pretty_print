@@ -19,12 +19,19 @@ pretty_print
 
 
 %% Author sorawa 2013-2-4
+
 %% this module load the record 
+
 %% pretty print
 
 %% How to use this module:
+
 %% First include all record to this file
+
 %% use -include("record.hrl")
+
 %% compile this module by debug model
+
 %% pretty_print:init() to load module info
+
 %% use pp(Record) to pretty print the Record
